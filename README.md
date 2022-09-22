@@ -12,6 +12,4 @@ A simple webpage made during the foundations course on the Odin Project. Clickin
 
 ## Screenshots
 
-![]()
-![]()
-![]()
+![Screen Shot 2022-09-22 at 3 06 01 PM](https://user-images.githubusercontent.com/94170093/191682252-ce75b88d-0472-45a2-b483-7bc858f4fafd.jpg)

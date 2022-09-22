@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  font-family: "ubuntu", serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+body {
+  background: linear-gradient(180deg, #ffeeee, #ddefbb);
+  height: 100vh;
+}
+
+.block {
+  display: block;
+  margin: auto;
+  border-radius: 25px;
+  width: min(70%, 500px);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+#contents {
+  margin-top: 2rem;
+  height: 300px;
+  border: 1px solid black;
+  text-align: center;
+  border-radius: 25px;
+  background-color: rgb(238, 238, 238);
+}
+
+.recipe {
+  padding: 5px;
+  font-size: 2.2rem;
+}
+
+a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
